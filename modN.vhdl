@@ -36,4 +36,4 @@ end if;
 Qtemp <= "11111";
 end process;
 Q<=Qtemp;
-end mod25_arch
+end mod25_arch;
